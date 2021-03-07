@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetMvc", "dotnetMvc\dotn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetMvcTest", "dotnetMvcTest\dotnetMvcTest.csproj", "{D36BFF32-3DDA-4FC3-BE5A-BEBAFE29C7AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{F4247D1C-F796-400C-B677-93804C713E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{D36BFF32-3DDA-4FC3-BE5A-BEBAFE29C7AD}.Release|x64.Build.0 = Release|Any CPU
 		{D36BFF32-3DDA-4FC3-BE5A-BEBAFE29C7AD}.Release|x86.ActiveCfg = Release|Any CPU
 		{D36BFF32-3DDA-4FC3-BE5A-BEBAFE29C7AD}.Release|x86.Build.0 = Release|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Debug|x64.Build.0 = Debug|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Debug|x86.Build.0 = Debug|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Release|x64.ActiveCfg = Release|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Release|x64.Build.0 = Release|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Release|x86.ActiveCfg = Release|Any CPU
+		{F4247D1C-F796-400C-B677-93804C713E60}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
